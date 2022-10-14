@@ -15,7 +15,7 @@ function checkPalindroma (word){
     if (secondaParola === word){
     return 'la parola è palindroma';
 }
-return 'la parola  non è palindroma'
+return 'la parola non è palindroma'
     }
 
 
